@@ -97,7 +97,7 @@ namespace MaquinaDeDoces
         }//Fim do métoro cadastrar produto  
 
         //COnsultar Produto 
-        public string CnsultarProduto(int codigo)
+        public string ConsultarProduto(int codigo)
         {
             string msg = ""; //criando uma variavel local 
 
